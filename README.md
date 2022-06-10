@@ -7,7 +7,7 @@
 
 💡 I'm Interested in Full Stack Developer, with demonstrated skills in designing structure, developing, and implementing applications and solu‑tions,.
 
-✍🏼 In my free time,I reading books and listen to podcast from https://syntax.fm/.
+✍🏼 In my free time,I read books and listen to podcast from https://syntax.fm/.
 
 🔍 Feel free to reach out to me for Any oportunity full time or part time.
 
