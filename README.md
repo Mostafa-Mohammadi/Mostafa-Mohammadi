@@ -5,7 +5,7 @@
 
 🚀 I like to explore new technologies and develop software solutions and quick hacks.
 
-💡 I'm Interested in Full Stack Developer, with demonstrated skills in designing structure, developing, and implementing applications and solu‑tions,.
+💡 I'm Interested in to be a Full stack developer , with demonstrated skills in designing structure, developing, and implementing applications and solu‑tions,.
 
 ✍🏼 In my free time,I read books and listen to podcast from https://syntax.fm/.
 
