@@ -1,7 +1,7 @@
 
 ### Hi there , i'm Mostafa<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
 
-🧑🏻‍💻 i'm frontend enginer and i'm learning to be the developer you want to work with.
+🧑🏻‍💻 i'm frontend engineer and i'm learning to be the developer you want to work with.
 
 🚀 I like to explore new technologies and develop software solutions and quick hacks.
 
