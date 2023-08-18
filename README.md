@@ -1,17 +1,15 @@
 
 ### Hi there , i'm Mostafa<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
 
-🧑🏻‍💻 i'm frontend engineer and i'm learning to be the developer you want to work with.
+🧑🏻‍💻 I'm a frontend engineer working to embody the qualities sought after in collaborative projects
 
-🚀 I like to explore new technologies and develop software solutions and quick hacks.
+🚀 My inclination toward discovering cutting-edge technologies fuels my passion for crafting innovative software solutions and efficient workarounds.
 
-💡 I'm Interested in to be a Full stack developer , with demonstrated skills in designing structure, developing, and implementing applications and solutions.
+✍🏼 During my leisure hours, I engage in literature consumption and podcast enrichment through the resources available at https://syntax.fm/.
 
-✍🏼 In my free time,I read books and listen to podcast from https://syntax.fm/.
+🔍 For potential full-time or part-time engagements, please don't hesitate to get in touch.
 
-🔍 Feel free to reach out to me for Any oportunity full time or part time.
-
-📩 You can shoot me an email at mohammadi.mse@gmail.com! I'll try to respond as soon as possible
+📩 Reach out to me via email at mohammadi.mse@gmail.com. I endeavor to provide prompt responses.
 
 
 ### 🤝🏻  Connect with Me
