@@ -1,11 +1,11 @@
 
 ### Hi there , i'm Mostafa<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
 
-🧑🏻‍💻 I'm a frontend engineer working to embody the qualities sought after in collaborative projects
+🧑🏻‍💻 As a frontend engineer, I specialize in creating captivating user interfaces. Currently, I'm intrigued by Rust programming and eager to explore its depths.
 
 🚀 My inclination toward discovering cutting-edge technologies fuels my passion for crafting innovative software solutions and efficient workarounds.
 
-✍🏼 During my leisure hours, I engage in literature consumption and podcast enrichment through the resources available at https://syntax.fm/.
+✍🏼 During my leisure hours, I engage in reading books and listening to podcasts available at https://syntax.fm/.
 
 🔍 For potential full-time or part-time engagements, please don't hesitate to get in touch.
 
